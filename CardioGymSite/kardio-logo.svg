@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 250" role="img" aria-labelledby="title desc">
+  <title id="title">Kardio Gym</title>
+  <desc id="desc">Logotipo de Kardio Gym, P.E.S.A.S + FIT</desc>
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6f7f8"/>
+      <stop offset=".38" stop-color="#8f969d"/>
+      <stop offset=".58" stop-color="#e1e4e6"/>
+      <stop offset="1" stop-color="#555d64"/>
+    </linearGradient>
+    <filter id="shadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="1" dy="4" stdDeviation="3" flood-color="#000" flood-opacity=".8"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)" text-anchor="middle">
+    <text x="260" y="112" fill="url(#steel)" stroke="#25292d" stroke-width="8" paint-order="stroke" font-family="Barlow Condensed, Impact, sans-serif" font-size="112" font-weight="800" textLength="492" lengthAdjust="spacingAndGlyphs">KARDIO</text>
+    <circle cx="391" cy="12" r="8" fill="#e31e2f"/>
+    <text x="125" y="151" fill="#e31e2f" font-family="Manrope, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="7" textLength="190" lengthAdjust="spacingAndGlyphs">P.E.S.A.S</text>
+    <g fill="none" stroke="url(#steel)" stroke-linecap="round" stroke-width="9">
+      <path d="M201 189c-31-3-53-17-70-39M199 196c-37 3-66-5-92-22M200 203c-35 11-65 12-96 4M319 189c31-3 53-17 70-39M321 196c37 3 66-5 92-22M320 203c35 11 65 12 96 4"/>
+    </g>
+    <text x="260" y="230" fill="url(#steel)" stroke="#25292d" stroke-width="7" paint-order="stroke" font-family="Barlow Condensed, Impact, sans-serif" font-size="92" font-weight="800" textLength="202" lengthAdjust="spacingAndGlyphs">GYM</text>
+    <circle cx="266" cy="146" r="8" fill="#e31e2f"/>
+  </g>
+</svg>
